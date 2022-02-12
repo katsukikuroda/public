@@ -1,0 +1,1 @@
+<?php include_once("./trial/static_site_deploy/index.html"); ?>
