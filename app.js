@@ -3,7 +3,7 @@ const basicAuth = require('basic-auth-connect')
 const app = express()
 
 const USERNAME = 'beengineer'
-const PASSWORD = 'thisistest'
+const PASSWORD = 'beengineer'
 
 app.use(basicAuth(USERNAME, PASSWORD))
 
