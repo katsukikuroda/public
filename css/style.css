@@ -1,0 +1,53 @@
+.navbar{
+    background-color:white;
+}
+
+.top-section { 
+    height: 100vh;
+    width: 100vw;
+    background-image: url(https://www.nintendo.co.jp/switch/ampya/img/bottom-mv.png);
+    background-size: cover;
+}
+
+
+.top-content{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-items: center;
+    align-items: center;
+}
+
+.top-content h1 {
+    /* display: inline; */
+    font-size: 8em;
+    font-weight: bold;
+    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
+    color: rgb(0, 255, 60);
+    text-align: center;
+}
+
+.content-section { 
+    background-color: #3cbf49;
+}
+
+.content-section .container { 
+    padding: 1rem;
+}
+
+.my-footer{
+    height: 20vh;
+    background-color: white;
+}
+
+.my-footer .container { 
+    padding: 1rem;
+}
+
+.footer-row{
+    height: 100%;
+}
+
+.privacy-policy-link{
+    color: #3cbf49;
+}
