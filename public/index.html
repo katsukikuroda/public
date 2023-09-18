@@ -35,7 +35,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h1>キミの未来をHACKしよう
+                        <h1>錯覚画像の一覧
                         </h1>
                     </div>
                 </div>
@@ -49,13 +49,12 @@
                     <div class="card mb-3">
                         <div class="row g-0">
                           <div class="col-md-4" style="display: flex; align-items:center; justify-content: center; padding:0.5rem;">
-                            <img src="./images/logo.svg" alt="" width="80%">
+                            <img src="https://it-counselor.net/wp-content/uploads/62684e153f80a0dc9f9172fe31f0596f.jpg.webp" alt="" width="80%">
                           </div>
                           <div class="col-md-8">
                             <div class="card-body">
-                              <h5 class="card-title">タイトルテキスト</h5>
-                              <p class="card-text">テキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
-                              <p class="card-text"><small class="text-muted">テキストテキストテキスト</small></p>
+                              <h5 class="card-title">ツェルナー錯視</h5>
+                              <p class="card-text">太い線は真っ直ぐであるのに、傾いて見える錯覚画像</p>
                             </div>
                           </div>
                         </div>
@@ -65,13 +64,12 @@
                     <div class="card mb-3">
                         <div class="row g-0">
                           <div class="col-md-4" style="display: flex; align-items:center; justify-content: center; padding:0.5rem;">
-                            <img src="./images/logo.svg" alt="" width="80%">
+                            <img src="https://it-counselor.net/wp-content/uploads/Jastrow_illusion.jpg.webp" alt="" width="80%">
                           </div>
                           <div class="col-md-8">
                             <div class="card-body">
-                              <h5 class="card-title">タイトル</h5>
-                              <p class="card-text">テキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
-                              <p class="card-text"><small class="text-muted">テキスト</small></p>
+                              <h5 class="card-title">ジャストロー錯視</h5>
+                              <p class="card-text">同じ大きさであるのに、内側の図形の方が大きく見える錯覚画像</p>
                             </div>
                           </div>
                         </div>
@@ -81,13 +79,12 @@
                     <div class="card mb-3">
                         <div class="row g-0">
                           <div class="col-md-4" style="display: flex; align-items:center; justify-content: center; padding:0.5rem;">
-                            <img src="./images/logo.svg" alt="" width="80%">
+                            <img src="https://it-counselor.net/wp-content/uploads/Impossible_cube.jpg.webp" alt="" width="80%">
                           </div>
                           <div class="col-md-8">
                             <div class="card-body">
-                              <h5 class="card-title">タイトルテキスト</h5>
-                              <p class="card-text">テキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
-                              <p class="card-text"><small class="text-muted">テキストテキストテキスト</small></p>
+                              <h5 class="card-title">不可能の立方体</h5>
+                              <p class="card-text">物理的には不可能だが、絵には描ける図形</p>
                             </div>
                           </div>
                         </div>
@@ -97,13 +94,12 @@
                     <div class="card mb-3">
                         <div class="row g-0">
                           <div class="col-md-4" style="display: flex; align-items:center; justify-content: center; padding:0.5rem;">
-                            <img src="./images/logo.svg" alt="" width="80%">
+                            <img src="https://it-counselor.net/wp-content/uploads/HermannGrid.jpg.webp" alt="" width="80%">
                           </div>
                           <div class="col-md-8">
                             <div class="card-body">
-                              <h5 class="card-title">タイトルテキスト</h5>
-                              <p class="card-text">テキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
-                              <p class="card-text"><small class="text-muted">テキストテキストテキスト</small></p>
+                              <h5 class="card-title">ハーマングリッド・ヘルマン格子錯視</h5>
+                              <p class="card-text">交差点の中心に灰色の点が見える錯覚画像</p>
                             </div>
                           </div>
                         </div>
@@ -113,13 +109,12 @@
                     <div class="card mb-3">
                         <div class="row g-0">
                           <div class="col-md-4" style="display: flex; align-items:center; justify-content: center; padding:0.5rem;">
-                            <img src="./images/logo.svg" alt="" width="80%">
+                            <img src="https://it-counselor.net/wp-content/uploads/800px-Checkershadow_double_med.jpg.webp" alt="" width="80%">
                           </div>
                           <div class="col-md-8">
                             <div class="card-body">
-                              <h5 class="card-title">タイトルテキスト</h5>
-                              <p class="card-text">テキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
-                              <p class="card-text"><small class="text-muted">テキストテキストテキスト</small></p>
+                              <h5 class="card-title">チェッカーシャドウ錯視</h5>
+                              <p class="card-text">AとBは同じ色であるが、違う色に見える錯覚画像</p>
                             </div>
                           </div>
                         </div>
@@ -128,6 +123,28 @@
             </div>
         </div>
     </section>
+    <p id="TestStr">これはテストの文字列 カウント : 0</p>
+    <button onclick="Clicked()">押してみてね</button>
+    <script>
+      const tS = document.getElementById("TestStr")
+      let inner = tS.innerHTML
+      let edittedInner = ""
+      let id = ""
+      for(let i = 0;i < inner.length;i++)
+      {
+        edittedInner += inner[i] + "a"
+      }
+      function Clicked(){
+        if(id) clearInterval(id)
+        id = setInterval(()=>{
+        let r = Math.floor( Math.random() * (256 + 1) ).toString(16) ;
+        let g = Math.floor( Math.random() * (256 + 1) ).toString(16) ;
+        let b = Math.floor( Math.random() * (256 + 1) ).toString(16) ;
+        tS.style.color = `#${r}${g}${b}`
+        tS.innerHTML = tS.innerHTML.split(" ")[0] + " " + tS.innerHTML.split(" ")[1] + " " + tS.innerHTML.split(" ")[2] + " " + (parseInt(tS.innerHTML.split(" ")[3]) + 1) + " " + `現在のカラーコード：#${r}${g}${b}`
+        },1000)
+      }
+    </script>
     <footer class="my-footer">
         <div class="container">
             <div class="row footer-row">
