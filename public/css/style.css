@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://media.istockphoto.com/id/483147081/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E6%9C%AA%E6%9D%A5%E7%9A%84%E3%81%AA%E5%9B%9E%E8%B7%AF%E5%9F%BA%E6%9D%BF%E3%83%96%E3%83%AB%E3%83%BC%E3%81%AB-elecrons-%E3%81%BE%E3%81%99.jpg?s=612x612&w=0&k=20&c=MItvZrdUDdXxFghuhf7bJzNwMgP2y1FJIrRQk2_PMSg=);
     background-size: cover;
 }
 
@@ -23,12 +23,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(34, 248, 255);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #00085f;
 }
 
 .content-section .container { 
