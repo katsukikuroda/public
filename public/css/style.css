@@ -3,9 +3,9 @@
 }
 
 .top-section { 
-    height: 100vh;
+    height: 40vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://battlecats.club/wp-content/themes/nyanko1/img/common/ogp_img.png);
     background-size: cover;
 }
 
@@ -20,15 +20,15 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 1.25cm;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(238, 109, 230);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #f6ff00;
 }
 
 .content-section .container { 
@@ -49,5 +49,5 @@
 }
 
 .privacy-policy-link{
-    color: #3cbf49;
+    color: #000000;
 }
