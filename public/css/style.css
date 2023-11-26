@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://jujutsukaisen.jp/images/top_r/mv_sp_new.jpg);
     background-size: cover;
 }
 
@@ -20,7 +20,7 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 6em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
     color: white;
@@ -28,7 +28,7 @@
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #0d0695;
 }
 
 .content-section .container { 
