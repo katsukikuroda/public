@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(https://img.rurubu.jp/img_srw/andmore/images/0000448202/2jjJhgCyQFwgZKCMJYHDexvmfA1BR11KyHXB9yTC.jpg);
+    background-image: url(https://lh3.googleusercontent.com/yt5FGbyvBSoAYuOAh7zW-R91NtRXs4HTR1uggdhNuWb3WdkfAEUGKbCGERsCGdgww_l2JdVbYcOtVnfZawyW2vV3IjxDx8s29M7hHvxJthCRFA=s2400-rj);
     background-size: cover;
 }
 
@@ -23,12 +23,12 @@
     font-size: 6em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: rgb(17, 18, 26);
+    color: rgb(255, 0, 0);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #9466d1;
 }
 
 .content-section .container { 
