@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://i.ytimg.com/vi/7FDXvUHtO70/maxresdefault.jpg);
     background-size: cover;
 }
 
@@ -23,8 +23,9 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: beige;
     text-align: center;
+    text-shadow: black 3px 3px 3px;
 }
 
 .content-section { 
