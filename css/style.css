@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://cdn.jalan.jp/jalan/img/4/kuchikomi/5264/KL/6df3b_0005264107_5.JPG);
     background-size: cover;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #4ca0d4;
 }
 
 .content-section .container { 
