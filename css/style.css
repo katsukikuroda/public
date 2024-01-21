@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(https://pbs.twimg.com/media/Ei9IEQXVkAET77S.jpg);
+    background-image: url(../images/top.png);
     background-size: cover;
 }
 
@@ -20,10 +20,10 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 7em;
+    font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: rgb(19, 135, 212);
+    color: white;
     text-align: center;
 }
 
