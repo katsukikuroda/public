@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(https://img.rurubu.jp/img_srw/andmore/images/0000448202/2jjJhgCyQFwgZKCMJYHDexvmfA1BR11KyHXB9yTC.jpg);
+    background-image: url(https://contents.townu.jp/images/1131315/001.webp);
     background-size: cover;
 }
 
@@ -20,10 +20,10 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 6em;
+    font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: rgb(17, 18, 26);
+    color: white;
     text-align: center;
 }
 
