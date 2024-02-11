@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://i2.wp.com/penguin-book.com/wp-content/uploads/2014/10/large_2268830123.jpg?ssl=1);
     background-size: cover;
 }
 
@@ -20,15 +20,15 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 5em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(139, 214, 204);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #72c3b0;
 }
 
 .content-section .container { 
