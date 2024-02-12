@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://static.cubing.co/blog/2020/12/Rubiks_Cube_Collection.jpg);
     background-size: cover;
 }
 
@@ -20,15 +20,16 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 5em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(0, 255, 255);
     text-align: center;
+    text-shadow:7px 7px 2px rgb(0, 0, 0);
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #6b5ee4;
 }
 
 .content-section .container { 
