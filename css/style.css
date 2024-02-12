@@ -1,3 +1,6 @@
+*{font-family: 'Zen Kurenaido', sans-serif;}
+
+
 .navbar{
     background-color:white;
 }
@@ -5,7 +8,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://otokonokakurega.com/wp-content/uploads/2022/10/78805a221a988e79ef3f42d7c5bfd418-5.jpeg.webp);
     background-size: cover;
 }
 
@@ -20,15 +23,15 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 3em;
     font-weight: bold;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
+    font-family: 'Zen Kurenaido', sans-serif;
     color: white;
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #d991d0;
 }
 
 .content-section .container { 
