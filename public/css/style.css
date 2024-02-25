@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://infield-fly.com/wp-content/uploads/2017/06/165c7c0c194b6977ed24c4189d43f94a_s.jpg);
     background-size: cover;
 }
 
@@ -23,12 +23,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(158, 100, 64);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #906e48;
 }
 
 .content-section .container { 
