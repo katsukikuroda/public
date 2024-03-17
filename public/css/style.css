@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://www.sonymusic.co.jp/img/common/artist_image/70009000/70009633/images/202307271000510.jpg);
     background-size: cover;
 }
 
@@ -23,12 +23,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(154, 176, 224);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #c94444;
 }
 
 .content-section .container { 
