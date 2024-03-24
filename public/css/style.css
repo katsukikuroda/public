@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://www.suntory-kenko.com/column2/wp-content/uploads/2023/01/967-1.jpg);
     background-size: cover;
 }
 
@@ -20,15 +20,15 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 5em;
     font-weight: bold;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    font-family: "M PLUS 1", "Yu Mincho", Yumincho, serif;
+    color: rgb(159, 182, 42);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #29ffad;
 }
 
 .content-section .container { 
