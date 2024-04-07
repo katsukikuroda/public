@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hokkaido_Nippon-Ham_Fighters_insignia.svg/1200px-Hokkaido_Nippon-Ham_Fighters_insignia.svg.png);
     background-size: cover;
 }
 
@@ -23,12 +23,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(4, 4, 17);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #00629a;
 }
 
 .content-section .container { 
