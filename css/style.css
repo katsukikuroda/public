@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://images.wallpapersden.com/image/download/poster-of-dune-2020_bGhmbGmUmZqaraWkpJRoa2lqrWdlamU.jpg);
     background-size: cover;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #4d9399;
 }
 
 .content-section .container { 
