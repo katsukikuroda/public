@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/JR_East_209_series_and_TWR_70-000_series_in_Kawagoe_depot_20171014.jpg/300px-JR_East_209_series_and_TWR_70-000_series_in_Kawagoe_depot_20171014.jpg);
     background-size: cover;
 }
 
@@ -20,15 +20,15 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 8em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(221, 62, 26);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #2438eb;
 }
 
 .content-section .container { 
