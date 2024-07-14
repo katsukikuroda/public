@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://pbs.twimg.com/media/E9doiluVUAU0uUg?format=jpg&name=large);
     background-size: cover;
 }
 
@@ -23,12 +23,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: orange;
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: blue;
 }
 
 .content-section .container { 
