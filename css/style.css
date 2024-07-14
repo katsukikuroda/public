@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://podimusi.com/wp-content/uploads/2021/01/8e8633903d54b61fe8dbf29a9ae889f8-1-e1611590503825-1024x342.jpg);
     background-size: cover;
 }
 
@@ -23,12 +23,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: black;
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: red
 }
 
 .content-section .container { 
