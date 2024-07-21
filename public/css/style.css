@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://www.veltra.com/jp/guide/wp-content/uploads/2023/10/pixta_43318598_M.jpg);
     background-size: cover;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #85aad9;
 }
 
 .content-section .container { 
