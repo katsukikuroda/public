@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://cdn-mapple.net/g/v3/?u=https://www.mapple.net/cms/wp-content/uploads/2018/01/30798-640x427.jpg);
     background-size: cover;
 }
 
@@ -20,7 +20,7 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 12em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
     color: white;
