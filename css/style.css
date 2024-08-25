@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://mimorning.com/wp-content/uploads/2020/09/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E7%94%BB%E5%83%8F_%E3%83%9B%E3%82%A6%E3%82%A8%E3%83%B3%E5%9C%B0%E6%96%B9.png);
     background-size: cover;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #097fe0bb;
 }
 
 .content-section .container { 
